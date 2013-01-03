@@ -1,5 +1,11 @@
-ihe-wallpapers (0.0.1) UNRELEASED; urgency=low
+ihe-wallpapers (0.0.1ubuntu1) precise; urgency=low
+
+  * 
+
+ -- I Heart Engineering <code@iheartengineering.com>  Thu, 03 Jan 2013 10:18:04 -0500
+
+ihe-wallpapers (0.0.1) precise; urgency=low
 
   * Init!
 
- -- I Heart Engineering <code@iheartengineering.com>  Fri, 20 Jul 2012 23:26:36 -0400
+ -- I Heart Engineering <code@iheartengineering.com>  Thu, 03 Jan 2013 10:04:47 -0500
