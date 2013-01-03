@@ -1,0 +1,14 @@
+Source: ihe-wallpapers
+Section: x11
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.9.3
+
+Package: ihe-wallpapers
+Architecture: any
+Provides: ihe-wallpapers
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}
+Description: I Heart Engineering Wallpapers
