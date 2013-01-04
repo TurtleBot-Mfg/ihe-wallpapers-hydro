@@ -1,3 +1,9 @@
+ihe-wallpapers (0.0.3) precise; urgency=low
+
+  * fixed image position
+
+ -- I Heart Engineering <code@iheartengineering.com>  Thu, 03 Jan 2013 13:17:02 -0500
+
 ihe-wallpapers (0.0.2ubuntu1) precise; urgency=low
 
   * 
