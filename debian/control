@@ -1,13 +1,13 @@
-Source: ihe-wallpapers
+Source: ihe-wallpapers-hydro
 Section: x11
 Priority: optional
 Maintainer: I Heart Engineering <code@iheartengineering.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
-Package: ihe-wallpapers
+Package: ihe-wallpapers-hydro
 Architecture: any
-Provides: ihe-wallpapers
+Provides: ihe-wallpapers-hydro
 Conflicts: 
 Replaces:
 Depends: ${misc:Depends}
