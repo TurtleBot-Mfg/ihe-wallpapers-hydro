@@ -6,9 +6,9 @@ Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
 Package: ihe-wallpapers-hydro
-Architecture: any
-Provides: ihe-wallpapers-hydro
-Conflicts: 
+Architecture: all
+Provides: ihe-wallpapers
+Conflicts: ihe-wallpapers
 Replaces:
 Depends: ${misc:Depends}
 Description: I Heart Engineering Wallpapers
