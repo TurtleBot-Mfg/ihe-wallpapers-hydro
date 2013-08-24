@@ -1,3 +1,11 @@
+ihe-wallpapers-hydro (0.0.4~1.gbp4f1ee5) UNRELEASED; urgency=low
+
+  ** SNAPSHOT build @4f1ee501fb536a73320f887e2d929c35358ddb74 **
+
+  * Fixed background resolution
+
+ -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 22:52:56 -0400
+
 ihe-wallpapers-hydro (0.0.4~1.gbp6d5f64) UNRELEASED; urgency=low
 
   ** SNAPSHOT build @6d5f645f33b6b5c64852e30df9a980bdec78095a **
